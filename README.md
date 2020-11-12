@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
 
-## App Plan
+![Screen Shot 2020-11-12 at 10 39 38 AM (3)](https://user-images.githubusercontent.com/10038637/98962996-302fb900-24d5-11eb-8a00-d653997404ff.png)
 
 
 ## Development server
